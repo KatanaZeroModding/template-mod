@@ -1,0 +1,4 @@
+dist/
+target/
+*.kzm
+.DS_Store
