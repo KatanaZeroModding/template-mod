@@ -2,3 +2,6 @@ dist/
 target/
 *.kzm
 .DS_Store
+Thumbs.db
+node_modules/
+
